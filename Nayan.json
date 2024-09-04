@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Bela",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "🍁🌿 𝗕𝗘𝗟𝗔 ❤️🦋",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
-  ],
-  "ADMINBOT": [
-    "100000959749712",
+    "61564225577862",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "ADMINBOT": [
+    "61564225577862",
+    ""
+  ],
+  "OWNER": ["61564225577862"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
